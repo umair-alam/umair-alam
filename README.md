@@ -41,26 +41,14 @@ My name is Umair Alam and I'm a electrical engineer and software developer. I'm 
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<br/>
 
-<br/>
-<a href="https://www.linkedin.com/in/umair-alam-ee/">
-  <img align="left" alt="My LinkdeIN" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/umairalam_real">
-  <img align="left" alt="My Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/umairaalam/">
-  <img align="left" alt="My Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
-
+<!--
 - 🔭 I’m currently working on AI Edge Applications and IoT.  
 - 🌱 I’m currently learning Edge Computing
 - 👯 I’m looking to collaborate on any edge computing applications or webapps.
 - 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: Brain chip is a real thing.
-
+-->
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/umair-alam/umair-alam">
