@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/umair-alam.png" alt="Umair Alam">
+<img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/umairalam.png" alt="Umair Alam">
 
 ### Hi there <img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/wave.gif" width="30px">
 
