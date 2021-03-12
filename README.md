@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/wave.gif" width="30px">
 
-My name is Umair Alam and I'm a electrical engineer and software developer. I'm from Pakistan and currently working as full time freelancer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Umair Alam and I'm a electrical engineer and software developer. I'm from Pakistan and currently studying Ms Data Science from FAST National University Computer and Emerging Sciences. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
