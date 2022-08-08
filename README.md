@@ -32,8 +32,8 @@ My name is Umair Alam and I'm from Pakistan and currently working on Data Engine
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 
 
-- 🔭 I’m currently working on AI Edge Application and Data Science.  
+- 🔭 I’m currently working on Data Science & Engineering.  
 - 🌱 I’m currently learning Edge Computing.
-- 👯 I’m looking to collaborate on any edge computing applications or webapps.
+- 👯 I’m looking to collaborate on AI and data science.
 - 🤔 I’m looking for help with networking.
 - ⚡ Fun fact: Brain chip is a real thing.
