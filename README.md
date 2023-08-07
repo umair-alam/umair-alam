@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/wave.gif" width="30px">
 
-My name is Umair Alam and I'm from Pakistan and currently working on Data Engineering. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Umair Alam and I'm from Pakistan and currently working on Microsoft Dynamics 365 and Data Science solutions. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 <!-- links to social media icons -->
 
@@ -21,19 +21,3 @@ My name is Umair Alam and I'm from Pakistan and currently working on Data Engine
 [1]: https://twitter.com/umairalam_real
 [2]: https://github.com/umair-alam
 [3]: https://www.linkedin.com/in/umair-alam-ee/
-
-
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-
-
-- 🔭 I’m currently working on Data Science & Engineering.  
-- 🌱 I’m currently learning Edge Computing.
-- 👯 I’m looking to collaborate on AI and data science.
-- 🤔 I’m looking for help with networking.
-- ⚡ Fun fact: Brain chip is a real thing.
