@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/umair-alam/umair-alam/master/wave.gif" width="30px">
 
-My name is Umair Alam and I'm from Pakistan and currently working on Microsoft Dynamics 365 and Data Science solutions. You can find me on [![LinkedIn][3.2]][3].
+My name is Umair Alam and I'm from Pakistan and currently working on AI Engineering. You can find me on [![LinkedIn][3.2]][3].
 
 <!-- links to social media icons -->
 
